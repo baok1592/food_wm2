@@ -1,0 +1,1 @@
+import{r as s,o as t,c as e,d as a,e as n,i as o,v as r,x as l}from"./index.325fe786.js";const u={__name:"404",setup(u){const c=s("404错误");return t((s=>{s&&s.msg&&(c.value=s.msg)})),(s,t)=>{const u=o;return e(),a(u,{class:"text-center mt-[30vh] text-lg font-bold"},{default:n((()=>[r(l(c.value),1)])),_:1})}}};export{u as default};

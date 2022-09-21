@@ -1,0 +1,1 @@
+import{a as s}from"./article.12d26598.js";import{r as a,G as o,T as c}from"./index.aa0178c7.js";const A=[{name:"\u6587\u7AE0",en:"lists"}],e=a(),l=a();o(l,t=>{console.log("v:",t),t==="category"&&r(),t==="lists"&&i()});const r=()=>{c().then(t=>{e.value=t})},i=()=>{s().then(t=>{e.value=t})};export{A,l as a,e as c};

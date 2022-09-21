@@ -1,0 +1,1 @@
+import{U as e,y as t}from"./index.aa0178c7.js";const a=()=>e({url:"article_all"}),i=r=>e({url:"article_del?id="+r,method:"DELETE"}),c=r=>t({url:"article_detail?id="+r}),s=r=>e({url:"article_add",method:"POST",data:r}),d=r=>e({url:"article_up",method:"POST",data:r});export{a,i as b,c,s as d,d as e};

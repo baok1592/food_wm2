@@ -1,0 +1,44 @@
+{
+  "name": "overtrue/socialite",
+  "description": "A collection of OAuth 2 packages.",
+  "keywords": [
+    "oauth",
+    "social",
+    "login",
+    "weibo",
+    "wechat",
+    "qq",
+    "feishu",
+    "qcloud"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Overtrue\\Socialite\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4",
+    "symfony/http-foundation": "^5.0",
+    "guzzlehttp/guzzle": "~6.0|~7.0",
+    "ext-json": "*",
+    "symfony/psr-http-message-bridge": "^2.0",
+    "ext-openssl": "*"
+  },
+  "require-dev": {
+    "mockery/mockery": "~1.2",
+    "phpunit/phpunit": "~9.0",
+    "friendsofphp/php-cs-fixer": "^3.0"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "overtrue",
+      "email": "anzhengchao@gmail.com"
+    }
+  ],
+  "scripts": {
+    "check-style": "php-cs-fixer fix --using-cache=no --diff --dry-run --ansi",
+    "fix-style": "php-cs-fixer fix --using-cache=no --ansi",
+    "test": "vendor/bin/phpunit --colors=always"
+  }
+}

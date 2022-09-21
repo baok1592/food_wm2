@@ -1,0 +1,1 @@
+import{U as r}from"./index.aa0178c7.js";const a=(e="")=>r({url:"user_all?type="+e}),l=e=>r({url:"user_del?id="+e,method:"DELETE"}),t=e=>r({url:"user_disable?id="+e,method:"PUT"});export{l as a,t as b,a as c};

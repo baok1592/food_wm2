@@ -1,0 +1,1 @@
+import{U as d}from"./index.aa0178c7.js";const t=()=>d({url:"ad_seat"}),e=()=>d({url:"ad_mb_all"}),s=a=>d({url:"ad_mb_sid?id="+a}),l=a=>d({url:"ad_add",method:"POST",data:a}),u=a=>d({url:"ad_del?id="+a,method:"DELETE"}),n=a=>d({url:"ad_up",method:"POST",data:a});export{u as a,l as b,n as c,e as d,t as e,s as f};

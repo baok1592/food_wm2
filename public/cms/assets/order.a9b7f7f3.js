@@ -1,0 +1,1 @@
+import{U as e}from"./index.aa0178c7.js";const o=()=>e({url:"order_all"}),t=r=>e({url:"order_detail?id="+r}),a=r=>e({url:`order_del?id=${r}`,method:"DELETE"}),l=r=>e({url:"order_admin_add",method:"POST",data:r}),n=r=>e({url:"order_admin_up",method:"POST",data:r});export{o as a,l as b,n as c,t as d,a as o};

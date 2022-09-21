@@ -1,0 +1,1 @@
+import{U as u}from"./index.aa0178c7.js";const a=()=>u({url:"admin_groups"}),p=r=>u({url:"admin_group_del?id="+r,method:"DELETE"}),e=r=>u({url:"admin_group_add",method:"POST",data:r}),t=r=>u({url:"admin_group_up",method:"POST",data:r}),d=()=>u({url:"group_rule_all",method:"GET"});export{a,e as b,t as c,d,p as e};
