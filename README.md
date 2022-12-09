@@ -20,7 +20,7 @@ JAVA版本扫码点餐外卖 后续推出
 
 
 #### 后台演示
-http://food.ruhuashop.com/test_cms/	账号：admin	密码123456
+http://food_demo.telidy.cn/cms/#/login
 
 
 #### 开源版使用须知
