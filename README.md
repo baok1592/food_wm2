@@ -11,7 +11,7 @@ JAVA版本扫码点餐外卖 后续推出
 
 
 
-##### QQ群： 728615087
+##### QQ群： 425462686
 
 #### 安装与使用教程
 1、访问：域名/install 进行一键安装即可
@@ -20,7 +20,7 @@ JAVA版本扫码点餐外卖 后续推出
 
 
 #### 后台演示
-http://food_demo.telidy.cn/cms/#/login
+http://demo.telidy.cn/food_cms/#/login
 
 
 #### 开源版使用须知
